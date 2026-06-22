@@ -46,4 +46,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına 
 ---
 
 ### Sorumluluk Reddi Beyanı 
-Bu proje sadece eğitim ve kişisel kullanım amacıyla geliştirilmiştir. YouTube üzerindeki içeriklerin indirilmesi, içerik üreticilerinin telif haklarına ve YouTube Kullanım Şartları'na tabi olabilir. Bu yazılımın ticari amaçlarla veya telif hakkı içeren materyalleri izinsiz indirmek için kullanılmasından doğabilecek tüm yasal sorumluluk kullanıcıya aittir. Geliştirici, yazılımın uygunsuz veya yasalara aykırı kullanımından dolayı hiçbir sorumluluk kabul etmez.
+Bu yazılım, yalnızca indirme hakkına sahip olduğunuz veya kullanım izni verilen içerikler için kullanılmalıdır. Kullanıcılar, YouTube Hizmet Şartları ile kendi ülkelerindeki telif hakkı mevzuatına uymaktan sorumludur. Bu yazılımın telif hakkıyla korunan içeriklerin izinsiz indirilmesi amacıyla kullanılmasından doğabilecek hukuki sonuçlardan geliştirici sorumlu değildir.
